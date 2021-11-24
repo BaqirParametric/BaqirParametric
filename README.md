@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baqir
+- 👋 Hi, I’m Baqir. Github name @BaqirParametric
 - 👀 I’m interested in Parametric modeling and scripting
 - 🌱 I’m currently learning Grasshopper and Python
 - 💞️ I’m looking to collaborate on any parametric models
